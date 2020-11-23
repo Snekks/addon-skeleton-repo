@@ -1,0 +1,10 @@
+## Interface: 90002
+## Title: Addon Skeleton
+## Version: 1.0.3
+## Dependencies: DataStore, Immersion
+## OptionalDeps: totalRP3, WeakAuras, Rarity, Altoholic
+## SavedVariables: CoolCoolCool
+## Notes: This is not real.
+## Author: Sel
+
+core.lua
