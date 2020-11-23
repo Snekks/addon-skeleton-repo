@@ -1,0 +1,17 @@
+
+  Identifier: 166288b1-3d3e-45e6-94a7-9448ae1bc36e
+  DiscoveryRef: master
+  LogoPath: /media/logo.png
+  Category: PvE
+  Summary: This addon does literally nothing.
+  OverviewPath: ReadMe.md
+  SecondaryAuthors: Varian, Garrosh, Dave
+  DocumentationUrl: https://github.com/Snekks/addon-skeleton-repo/wiki
+  IssueTrackingUrl: https://github.com/Snekks/addon-skeleton-repo/issues
+  Media:
+    - ImagePath: /media/image1.png
+      Name: Supreme Leader
+      Description: This is absolutely a description.
+  LatestVersion: 1.0.2
+  LatestPreRelease: 0.1.0
+  
