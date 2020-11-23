@@ -12,6 +12,6 @@
     - ImagePath: /media/image1.png
       Name: Supreme Leader
       Description: This is absolutely a description.
-  LatestVersion: 1.0.2
+  LatestVersion: 1.0.4
   LatestPreRelease: 0.1.0
   
