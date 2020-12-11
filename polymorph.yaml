@@ -9,7 +9,7 @@
   DocumentationUrl: https://github.com/Snekks/addon-skeleton-repo/wiki
   IssueTrackingUrl: https://github.com/Snekks/addon-skeleton-repo/issues
   Dependencies:
-  - FolderName: BestAddon
+  - FolderName: WeakAuras
     AddonId: 343asdr3a324asdf324asdf
   Media:
     - ImagePath: /media/image1.png
