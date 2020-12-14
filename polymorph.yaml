@@ -3,15 +3,17 @@
   DiscoveryRef: master
   Name: Addon Skeleton DA BEST
   LogoPath: /media/logo.png
-  Category: PvE
+  Categories:
+    - PvE
+    - RolePlay
   Summary: This addon does literally nothing.
   OverviewPath: ReadMe.md
   SecondaryAuthors: Varian, Garrosh, Dave
   DocumentationUrl: https://github.com/Snekks/addon-skeleton-repo/wiki
   IssueTrackingUrl: https://github.com/Snekks/addon-skeleton-repo/issues
   Dependencies:
-  - FolderName: WeakAuras
-    AddonId: 343asdr3a324asdf324asdf
+    - FolderName: WeakAuras
+      AddonId: 343asdr3a324asdf324asdf
   Media:
     - ImagePath: /media/image1.png
       Name: Supreme Leader
