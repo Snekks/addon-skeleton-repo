@@ -18,6 +18,9 @@
     - ImagePath: /media/image1.png
       Name: Supreme Leader
       Description: This is absolutely a description.
+    - ImagePath: /media/big-file.png
+      Name: This is a big bitch
+      Description: Yes it is.
   LatestVersion: 1.0.4
   LatestPreReleaseVersion: 0.1.0
   
